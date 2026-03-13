@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "qualifications": "Background",
+    "pricing": "Pricing",
+    "booking": "Book",
+    "contact": "Contact",
+    "langSwitch": "SL"
+  },
+  "hero": {
+    "name": "Tea Vuga",
+    "subtitle": "integrative body-oriented psychotherapy",
+    "cta": "Book a session"
+  },
+  "about": {
+    "label": "About",
+    "heading": "Therapy that begins in the body",
+    "body": "I'm a master's-level social worker and student psychotherapist. My work is rooted in the belief that the body holds stories the mind hasn't yet learned to tell. By weaving together somatic work, trauma processing, and breathwork, I create a space where real change becomes possible.",
+    "quote": "The only journey is the one within.",
+    "quoteAuthor": "— Rainer Maria Rilke"
+  },
+  "services": {
+    "label": "Services",
+    "heading": "How I work",
+    "items": [
+      {
+        "title": "Somatic Work",
+        "description": "A body-oriented approach that addresses patterns held in the nervous system."
+      },
+      {
+        "title": "Trauma Processing",
+        "description": "Safe, gradual work with experiences that have left their mark on body and mind."
+      },
+      {
+        "title": "Breathwork & Mindfulness",
+        "description": "Regulation techniques that build the foundation for inner equilibrium."
+      },
+      {
+        "title": "LGBTQ+ Affirmative Therapy",
+        "description": "A space for all identities — free of judgment, held with deep understanding."
+      }
+    ]
+  },
+  "qualifications": {
+    "label": "Background & Approach",
+    "heading": "What I bring to the room",
+    "items": [
+      "Master's in Social Work & Pedagogy",
+      "Student psychotherapist (integrative approach)",
+      "Mindfulness Based Stress Reduction (MBSR)",
+      "Body-oriented psychotherapy",
+      "Attachment theory",
+      "LGBTQ+ competent therapist",
+      "Feminist and first-person perspective"
+    ]
+  },
+  "pricing": {
+    "label": "Pricing",
+    "heading": "Transparent pricing",
+    "note": "Sessions take place in Mengeš and Črnuče (Ljubljana). Online sessions are also available.",
+    "items": [
+      {
+        "title": "Initial consultation",
+        "duration": "45 min",
+        "price": "€30"
+      },
+      {
+        "title": "Individual psychotherapy",
+        "duration": "60 min",
+        "price": "€40"
+      },
+      {
+        "title": "Psychosocial counseling",
+        "duration": "60 min",
+        "price": "€40"
+      }
+    ]
+  },
+  "booking": {
+    "label": "Book",
+    "heading": "Book a session",
+    "subheading": "Choose a time that works for you. Confirmation arrives immediately."
+  },
+  "contact": {
+    "label": "Contact",
+    "heading": "Get in touch",
+    "subheading": "Have a question? I'd love to hear from you.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message",
+      "success": "Message sent. I'll be in touch soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "social": {
+      "instagram": "Instagram",
+      "email": "Email"
+    }
+  },
+  "footer": {
+    "copy": "© 2024 Tea Vuga. All rights reserved."
+  }
+}

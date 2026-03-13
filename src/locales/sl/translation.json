@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "about": "O meni",
+    "services": "Storitve",
+    "qualifications": "Izobrazba",
+    "pricing": "Cenik",
+    "booking": "Rezervacija",
+    "contact": "Kontakt",
+    "langSwitch": "EN"
+  },
+  "hero": {
+    "name": "Tea Vuga",
+    "subtitle": "integrativna telesno orientirana psihoterapija",
+    "cta": "Rezerviraj termin"
+  },
+  "about": {
+    "label": "O meni",
+    "heading": "Terapija, ki se začne v telesu",
+    "body": "Sem magistra socialnega dela in pedagogike ter študentka psihoterapije. Moje delo temelji na prepričanju, da telo hrani zgodbe, ki jih um še ne zna povedati. Z integracijo somatskega dela, predelave travm in dihanja ustvarjam prostor, kjer se resnična sprememba zgodi.",
+    "quote": "Edina prava pot vodi navznoter.",
+    "quoteAuthor": "— Rainer Maria Rilke"
+  },
+  "services": {
+    "label": "Storitve",
+    "heading": "Kako delam",
+    "items": [
+      {
+        "title": "Somatic Work",
+        "description": "Telesno orientiran pristop, ki naslavlja vzorce, shranjene v živčnem sistemu."
+      },
+      {
+        "title": "Predelava travm",
+        "description": "Varno in postopno delo z izkušnjami, ki so pustile sled v telesu in umu."
+      },
+      {
+        "title": "Dihanje & mindfulness",
+        "description": "Tehnike regulacije, ki gradijo temelje za notranje ravnovesje."
+      },
+      {
+        "title": "LGBTQ+ afirmativna terapija",
+        "description": "Prostor za vse identitete — brez obsojanja, z globokim razumevanjem."
+      }
+    ]
+  },
+  "qualifications": {
+    "label": "Izobrazba & pristop",
+    "heading": "Znanje, ki ga prinašam v prostor",
+    "items": [
+      "Magistrica socialnega dela in pedagogike",
+      "Študentka psihoterapije (integrativni pristop)",
+      "Mindfulness Based Stress Reduction (MBSR)",
+      "Telesno orientirana psihoterapija",
+      "Teorija navezanosti",
+      "LGBTQ+ kompetentna terapevtka",
+      "Feministična in prvoosebna perspektiva"
+    ]
+  },
+  "pricing": {
+    "label": "Cenik",
+    "heading": "Transparentne cene",
+    "note": "Seje potekajo v Mengšu in Črnučah (Ljubljana). Možna je tudi spletna seja.",
+    "items": [
+      {
+        "title": "Uvodni razgovor",
+        "duration": "45 min",
+        "price": "€30"
+      },
+      {
+        "title": "Individualna psihoterapija",
+        "duration": "60 min",
+        "price": "€40"
+      },
+      {
+        "title": "Psihosocialno svetovanje",
+        "duration": "60 min",
+        "price": "€40"
+      }
+    ]
+  },
+  "booking": {
+    "label": "Rezervacija",
+    "heading": "Rezerviraj termin",
+    "subheading": "Izberi čas, ki ti ustreza. Potrditveno sporočilo dobiš takoj."
+  },
+  "contact": {
+    "label": "Kontakt",
+    "heading": "Stopi v stik",
+    "subheading": "Imam vprašanje? Pišite mi.",
+    "form": {
+      "name": "Ime",
+      "email": "E-pošta",
+      "message": "Sporočilo",
+      "submit": "Pošlji sporočilo",
+      "success": "Sporočilo je bilo poslano. Kmalu se oglasim.",
+      "error": "Nekaj je šlo narobe. Prosim, poskusi znova."
+    },
+    "social": {
+      "instagram": "Instagram",
+      "email": "E-pošta"
+    }
+  },
+  "footer": {
+    "copy": "© 2024 Tea Vuga. Vse pravice pridržane."
+  }
+}
