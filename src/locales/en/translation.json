@@ -16,7 +16,7 @@
   "about": {
     "label": "About",
     "heading": "Therapy that begins in the body",
-    "body": "I'm a master's-level social worker and student psychotherapist. My work is rooted in the belief that the body holds stories the mind hasn't yet learned to tell. By weaving together somatic work, trauma processing, and breathwork, I create a space where real change becomes possible.",
+    "body": "I'm a master's-level social worker and am a trainee in body-oriented psychotherapy under supervision. My work is based on the understanding that the body holds stories the mind does not yet know how to tell. By integrating somatic work, creating conditions for the energetic flow in the body, trauma processing, and breathwork, I create conditions where genuine change can occur. I am here to hold space and guide you toward your path.",
     "quote": "The only journey is the one within.",
     "quoteAuthor": "— Rainer Maria Rilke"
   },
@@ -46,34 +46,39 @@
     "label": "Background & Approach",
     "heading": "What I bring to the room",
     "items": [
-      "Master's in Social Work & Pedagogy",
+      "Master's in Social Work, focusing on Psychosocial support",
       "Student psychotherapist (integrative approach)",
       "Mindfulness Based Stress Reduction (MBSR)",
       "Body-oriented psychotherapy",
+      "Expressive arts tools",
       "Attachment theory",
       "LGBTQ+ competent therapist",
-      "Feminist and first-person perspective"
+      "Feminist and first-person perspective inquiry",
+      "Sensitivity for the transpersonal experiences"
     ]
   },
   "pricing": {
     "label": "Pricing",
     "heading": "Transparent pricing",
-    "note": "Sessions take place in Mengeš and Črnuče (Ljubljana). Online sessions are also available.",
+    "studentLabel": "students",
+    "note": "Sessions take place in Mengeš and Črnuče (Ljubljana). Psychosocial counselling is possible online too.",
     "items": [
       {
-        "title": "Initial consultation",
-        "duration": "45 min",
-        "price": "€30"
+        "title": "Consultation call",
+        "duration": "15 min",
+        "price": "free"
       },
       {
         "title": "Individual psychotherapy",
         "duration": "60 min",
-        "price": "€40"
+        "price": "€40",
+        "studentPrice": "€35"
       },
       {
         "title": "Psychosocial counseling",
         "duration": "60 min",
-        "price": "€40"
+        "price": "€40",
+        "studentPrice": "€35"
       }
     ]
   },
@@ -100,6 +105,6 @@
     }
   },
   "footer": {
-    "copy": "© 2024 Tea Vuga. All rights reserved."
+    "copy": "© 2026 Tea Vuga. All rights reserved."
   }
 }

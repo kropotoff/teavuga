@@ -16,7 +16,7 @@
   "about": {
     "label": "O meni",
     "heading": "Terapija, ki se začne v telesu",
-    "body": "Sem magistra socialnega dela in pedagogike ter študentka psihoterapije. Moje delo temelji na prepričanju, da telo hrani zgodbe, ki jih um še ne zna povedati. Z integracijo somatskega dela, predelave travm in dihanja ustvarjam prostor, kjer se resnična sprememba zgodi.",
+    "body": "Sem magistrica socialnega dela edukantka telesno orientirane psihoterapije pod supervizijo. Moje delo temelji na prepričanju, da telo hrani zgodbe, ki jih um še ne zna povedati. Z integracijo somatskega dela, odpiranja pretočnosti v telesu, predelave travm in dihanja ustvarjam pogoje, kjer se resnična sprememba zgodi. Tu sem, da ti držim prostor in te usmerjam v želeno smer.",
     "quote": "Edina prava pot vodi navznoter.",
     "quoteAuthor": "— Rainer Maria Rilke"
   },
@@ -25,8 +25,8 @@
     "heading": "Kako delam",
     "items": [
       {
-        "title": "Somatic Work",
-        "description": "Telesno orientiran pristop, ki naslavlja vzorce, shranjene v živčnem sistemu."
+        "title": "Somatika",
+        "description": "Telesno orientiran pristop, ki obravnava vzorce, zapisane v živčnem sistemu."
       },
       {
         "title": "Predelava travm",
@@ -44,36 +44,41 @@
   },
   "qualifications": {
     "label": "Izobrazba & pristop",
-    "heading": "Znanje, ki ga prinašam v prostor",
+    "heading": "Kaj vnašam v svoje delo",
     "items": [
-      "Magistrica socialnega dela in pedagogike",
+      "Magistrica socialnega dela, s poudarkom na psihosocialni podpori",
       "Študentka psihoterapije (integrativni pristop)",
-      "Mindfulness Based Stress Reduction (MBSR)",
+      "Zmanjševanje stresa na podlagi čuječnosti (MBSR)",
       "Telesno orientirana psihoterapija",
+      "Pomoč s izraznoustvarjalnimi sredstvi",
       "Teorija navezanosti",
-      "LGBTQ+ kompetentna terapevtka",
-      "Feministična in prvoosebna perspektiva"
+      "LGBTQ+ terapevtska podpora",
+      "Feministična perspektiva in prvoosebno raziskovanje",
+      "Občutljivost za transpersonalne izkušnje"
     ]
   },
   "pricing": {
     "label": "Cenik",
-    "heading": "Transparentne cene",
-    "note": "Seje potekajo v Mengšu in Črnučah (Ljubljana). Možna je tudi spletna seja.",
+    "heading": "Pregleden cenik",
+    "studentLabel": "za študente_ke",
+    "note": "Srečanja potekajo v Mengšu in Črnučah (Ljubljana). Psihosocialno svetovanje izvajam tudi on-line.",
     "items": [
       {
-        "title": "Uvodni razgovor",
-        "duration": "45 min",
-        "price": "€30"
+        "title": "Konzultacijski klic",
+        "duration": "15 min",
+        "price": "brezplačno"
       },
       {
         "title": "Individualna psihoterapija",
         "duration": "60 min",
-        "price": "€40"
+        "price": "€40",
+        "studentPrice": "€35"
       },
       {
         "title": "Psihosocialno svetovanje",
         "duration": "60 min",
-        "price": "€40"
+        "price": "€40",
+        "studentPrice": "€35"
       }
     ]
   },
@@ -100,6 +105,6 @@
     }
   },
   "footer": {
-    "copy": "© 2024 Tea Vuga. Vse pravice pridržane."
+    "copy": "© 2026 Tea Vuga. Vse pravice pridržane."
   }
 }

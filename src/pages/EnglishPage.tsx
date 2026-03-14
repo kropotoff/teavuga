@@ -5,7 +5,6 @@ import { About } from '@/sections/About/About'
 import { Services } from '@/sections/Services/Services'
 import { Qualifications } from '@/sections/Qualifications/Qualifications'
 import { Pricing } from '@/sections/Pricing/Pricing'
-import { Booking } from '@/sections/Booking/Booking'
 import { Contact } from '@/sections/Contact/Contact'
 
 export function EnglishPage() {
@@ -22,7 +21,6 @@ export function EnglishPage() {
       <Services />
       <Qualifications />
       <Pricing />
-      <Booking />
       <Contact />
     </>
   )

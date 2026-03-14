@@ -9,7 +9,7 @@ import { images } from '@/assets/images'
 type FormState = 'idle' | 'submitting' | 'success' | 'error'
 
 // Replace with your Formspree endpoint
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/REPLACE_ME'
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xlgplzgl'
 
 export function Contact() {
   const { t } = useTranslation()

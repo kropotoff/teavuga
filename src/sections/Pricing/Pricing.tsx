@@ -8,6 +8,7 @@ export function Pricing() {
     title: string
     duration: string
     price: string
+    studentPrice?: string
   }>
 
   return (
@@ -30,7 +31,12 @@ export function Pricing() {
                   <h3 className="text-lg font-medium text-forest">{item.title}</h3>
                   <span className="text-sm text-stone">{item.duration}</span>
                 </div>
-                <span className="font-display text-3xl font-light text-forest">{item.price}</span>
+                <div className="flex flex-col items-end gap-1">
+                  <span className="font-display text-3xl font-light text-forest">{item.price}</span>
+                  {item.studentPrice && (
+                    <span className="text-sm text-stone">{item.studentPrice} {t('pricing.studentLabel')}</span>
+                  )}
+                </div>
               </div>
             </FadeIn>
           ))}
