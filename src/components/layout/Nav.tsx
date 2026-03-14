@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next'
 import { useNavigate, useLocation } from 'react-router-dom'
 import { cn } from '@/lib/utils'
 
-const NAV_LINKS = ['about', 'services', 'qualifications', 'pricing', 'booking', 'contact'] as const
+const NAV_LINKS = ['about', 'services', 'qualifications', 'pricing', 'contact'] as const
 
 export function Nav() {
   const { t } = useTranslation()
