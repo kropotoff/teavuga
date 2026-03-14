@@ -4,14 +4,12 @@
     "services": "Services",
     "qualifications": "Background",
     "pricing": "Pricing",
-    "booking": "Book",
     "contact": "Contact",
     "langSwitch": "SL"
   },
   "hero": {
     "name": "Tea Vuga",
-    "subtitle": "integrative body-oriented psychotherapy",
-    "cta": "Book a session"
+    "subtitle": "integrative body-oriented psychotherapy"
   },
   "about": {
     "label": "About",
@@ -81,11 +79,6 @@
         "studentPrice": "€35"
       }
     ]
-  },
-  "booking": {
-    "label": "Book",
-    "heading": "Book a session",
-    "subheading": "Choose a time that works for you. Confirmation arrives immediately."
   },
   "contact": {
     "label": "Contact",

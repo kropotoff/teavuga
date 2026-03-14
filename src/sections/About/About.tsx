@@ -7,7 +7,7 @@ export function About() {
   const { t } = useTranslation()
 
   return (
-    <section id="about" className="bg-white py-30 px-6">
+    <section id="about" className="bg-white/90 py-30 px-6">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 md:gap-24 items-center">
 
         {/* Portrait in gallery frame */}

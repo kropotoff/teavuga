@@ -6,6 +6,7 @@ import { Services } from '@/sections/Services/Services'
 import { Qualifications } from '@/sections/Qualifications/Qualifications'
 import { Pricing } from '@/sections/Pricing/Pricing'
 import { Contact } from '@/sections/Contact/Contact'
+import { GlobalParallax } from '@/components/ui/GlobalParallax'
 
 export function EnglishPage() {
   const { i18n } = useTranslation()
@@ -16,6 +17,7 @@ export function EnglishPage() {
 
   return (
     <>
+      <GlobalParallax />
       <Hero />
       <About />
       <Services />

@@ -12,7 +12,7 @@ export function Pricing() {
   }>
 
   return (
-    <section id="pricing" className="bg-white py-30 px-6">
+    <section id="pricing" className="bg-white/90 py-30 px-6">
       <div className="max-w-6xl mx-auto">
         <FadeIn>
           <SectionLabel>{t('pricing.label')}</SectionLabel>

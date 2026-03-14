@@ -41,7 +41,7 @@ export function Contact() {
   )
 
   return (
-    <section id="contact" className="bg-peach/30 py-30 px-6">
+    <section id="contact" className="bg-peach/85 py-30 px-6">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 md:gap-24">
 
         {/* Left: heading + social */}

@@ -41,20 +41,6 @@ export function Hero() {
         >
           {t('hero.name')}
         </motion.h1>
-
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 0.6, delay: 0.7 }}
-        >
-          <button
-            onClick={() => document.getElementById('booking')?.scrollIntoView({ behavior: 'smooth' })}
-            className="inline-flex items-center gap-3 text-sm font-medium text-forest border-b border-forest/40 pb-1 hover:border-forest transition-colors duration-200 group"
-          >
-            {t('hero.cta')}
-            <span className="group-hover:translate-x-1 transition-transform duration-200">→</span>
-          </button>
-        </motion.div>
       </div>
 
       {/* Scroll indicator */}

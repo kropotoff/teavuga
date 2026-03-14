@@ -4,14 +4,12 @@
     "services": "Storitve",
     "qualifications": "Izobrazba",
     "pricing": "Cenik",
-    "booking": "Rezervacija",
     "contact": "Kontakt",
     "langSwitch": "EN"
   },
   "hero": {
     "name": "Tea Vuga",
-    "subtitle": "integrativna telesno orientirana psihoterapija",
-    "cta": "Rezerviraj termin"
+    "subtitle": "integrativna telesno orientirana psihoterapija"
   },
   "about": {
     "label": "O meni",
@@ -81,11 +79,6 @@
         "studentPrice": "€35"
       }
     ]
-  },
-  "booking": {
-    "label": "Rezervacija",
-    "heading": "Rezerviraj termin",
-    "subheading": "Izberi čas, ki ti ustreza. Potrditveno sporočilo dobiš takoj."
   },
   "contact": {
     "label": "Kontakt",

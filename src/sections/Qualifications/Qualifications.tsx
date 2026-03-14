@@ -7,7 +7,7 @@ export function Qualifications() {
   const items = t('qualifications.items', { returnObjects: true }) as string[]
 
   return (
-    <section id="qualifications" className="bg-forest py-30 px-6">
+    <section id="qualifications" className="bg-forest/88 py-30 px-6">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 md:gap-24 items-start">
 
         <div>

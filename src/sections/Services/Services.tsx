@@ -7,7 +7,7 @@ export function Services() {
   const items = t('services.items', { returnObjects: true }) as Array<{ title: string; description: string }>
 
   return (
-    <section id="services" className="bg-cream py-30 px-6">
+    <section id="services" className="bg-cream/90 py-30 px-6">
       <div className="max-w-6xl mx-auto">
         <FadeIn>
           <SectionLabel>{t('services.label')}</SectionLabel>
@@ -22,7 +22,7 @@ export function Services() {
         <div className="grid md:grid-cols-2 gap-px bg-forest/10">
           {items.map((item, i) => (
             <FadeIn key={item.title} delay={i * 0.1} className="h-full">
-              <div className="bg-cream p-10 md:p-12 h-full group hover:bg-peach/20 transition-colors duration-300">
+              <div className="bg-cream/90 p-10 md:p-12 h-full group hover:bg-peach/20 transition-colors duration-300">
                 <span className="text-xs text-stone/50 font-mono mb-6 block">
                   0{i + 1}
                 </span>
