@@ -15,6 +15,7 @@ export function GlobalParallax() {
   }, [])
 
   useEffect(() => {
+    if (window.innerWidth < 768) return
     window.addEventListener('scroll', update, { passive: true })
     update()
     return () => window.removeEventListener('scroll', update)
@@ -29,7 +30,7 @@ export function GlobalParallax() {
         alt=""
         role="presentation"
         onLoad={update}
-        className="w-full h-auto will-change-transform"
+        className="w-full h-auto min-h-screen object-cover object-top will-change-transform"
       />
     </div>
   )
